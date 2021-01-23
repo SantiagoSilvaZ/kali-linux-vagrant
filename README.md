@@ -1,4 +1,4 @@
-# Contrução da maquina virtual do Kali Linux pelo o Vagrant
+# Provisioning a Kali Linux virtual machine using Vagrant
 
 Provision a Kali Linux virtual machine, with the goal of reducing setup time for the development environment and speeding up the process.
 
